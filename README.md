@@ -1,5 +1,5 @@
 # ft_printf_tester_Mitsun0bu
-This tester works for the ft_printf project of 2021.  
+This tester works for the 42 School ft_printf project (2021).  
 It doesn't take bonus into account.  
 Additional tests and makefile will be added later.  
 To use it :  
