@@ -1,18 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   my_ft_printf_tester.c                              :+:      :+:    :+:   */
+/*   ft_printf_tester_Mitsun0bu.c                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: llethuil <llethuil@student.42lyon.fr>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/17 14:45:25 by llethuil          #+#    #+#             */
-/*   Updated: 2022/01/02 00:25:00 by llethuil         ###   ########lyon.fr   */
+/*   Updated: 2022/01/02 00:36:26 by lucas            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <limits.h>
-#include "../../LEVEL_2/exam_02_training/ft_printf/ft_printf.h"
+#include "../ft_printf.h"
 
 int main()
 {
