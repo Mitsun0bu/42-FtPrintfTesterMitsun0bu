@@ -1,4 +1,4 @@
-# ft_printf_tester_Mitsun0bu
+# 42-FtPrintfTesterMitsun0bu
 This tester is made for the 42 School ft_printf project (2021).  
 It doesn't take bonus into account.  
 Additional tests and makefile will be added later.  
